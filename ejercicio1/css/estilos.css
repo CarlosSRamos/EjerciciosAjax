@@ -1,0 +1,19 @@
+body{
+    background-image: url("../imgs/xbox.jpg");
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+}
+footer{
+    background-color: #000000;
+    text-align: center;
+}
+.secciones{
+    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, serif;
+}
+#autor{
+    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Times New Roman, serif;
+    font-style: italic;
+    color: #ffffff;
+}
